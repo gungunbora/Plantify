@@ -1,6 +1,7 @@
 import {Link} from "react-router-dom";
 import logo from "../assets/images/leaficon.ico"; 
 
+
 const Navbar = () =>{
   return(
     <nav className="w-full bg-green-50 px-10 py-4 flex items-center justify-between"> 

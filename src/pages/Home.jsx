@@ -1,14 +1,12 @@
-import Navbar from "../components/Navbar";
 import HeroSection from "../components/HeroSection";
-import Login from "../pages/Login";
 
-export default function Home() {
+const Home = () => {
   return (
     <>
-      <Navbar />
       <HeroSection />
-      <Login />
-
+      {/* About, Products, Footer later */}
     </>
   );
-}
+};
+
+export default Home;

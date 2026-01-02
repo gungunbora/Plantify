@@ -2,8 +2,8 @@ import mainimage from  "../assets/images/plants.png";
 
 const HeroSection =()=>{
     return(
-        <section className="bg-[#eef6ec] min-h-[85vh] flex items-center">
-             <div className="max-w-[1300px] mx-auto w-full flex items-center justify-between px-12">
+        <section className="bg-[#eef6ec] min-h-screen flex items-center">
+             <div className="max-w-7xl mx-auto px-24 flex items-center justify-between w-full">
             {/*LEFT */}
      <div className="max-w-2xl">
      <h1 className=" font-playfair text-[84px] font-bold text-[#3f6b4f] leading-[1.1]">

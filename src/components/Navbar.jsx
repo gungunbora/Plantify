@@ -1,6 +1,6 @@
 import {Link} from "react-router-dom";
 import logo from "../assets/images/leaficon.ico"; 
-
+<Link to="/about"> About Plants </Link>
 
 const Navbar = () =>{
   return(

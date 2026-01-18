@@ -1,10 +1,12 @@
 import HeroSection from "../components/HeroSection";
+import AboutPlants from "../components/AboutPlantCard";
 
 const Home = () => {
   return (
     <>
       <HeroSection />
-      {/* About, Products, Footer later */}
+      <AboutPlants />
+       
     </>
   );
 };

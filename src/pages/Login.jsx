@@ -5,7 +5,7 @@ import {Link} from "react-router-dom"
 const Login = () => {
   return (
     <>
-    <div className='min-h-screen bg-[#2f8f8b] flex items-center justify-center'>
+    <div className='min-h-screen bg-[#eef6ec] flex items-center justify-center'>
       <div className='relative w-[360px] h-[520px] bg-[#f4f6e8] rounded-[28px] overflow-hidden shadow-2xl'>
         <div className='absolute top-0 left-0 w-full h-[45%] bg-[#a7c77a] clip-diagonal'></div>
       {/* content */}
